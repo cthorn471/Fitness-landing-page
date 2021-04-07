@@ -4,6 +4,6 @@
 - Mobile Responsiveness <br>
 - CSS grid & Flexbox for design on teams section <br>
 - GSAP scrolling animation on whole website <br>
-<br>
+
 ![Animated GIF-downsized_large](https://media.giphy.com/media/QvgkFQ7K9aVJk3xNeh/giphy.gif)
-<br>
+
