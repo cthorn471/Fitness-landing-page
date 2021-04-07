@@ -2,8 +2,9 @@
 
 <h2>Key elements in this project are:</h2>
 - Mobile Responsiveness <br>
+- Vanilla JavaScript <br>
 - CSS grid & Flexbox for design on teams section <br>
-- GSAP scrolling animation on whole website <br>
+- GSAP scrolling animation on all website sections <br>
 
 ![Animated GIF-downsized_large](https://media.giphy.com/media/QvgkFQ7K9aVJk3xNeh/giphy.gif)
 
